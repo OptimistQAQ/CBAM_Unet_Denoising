@@ -1,0 +1,32 @@
+Model Name:	SonyA7S2_ELD_Official
+Architecture:	UNetSeeInDark
+TrainDataset:	SID_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	
+Let's use 4 GPUs!
+2022-10-18 15:13:56 >>  Epoch 100: PSNR=40.81
+psnrs_lr=26.84, psnrs_dn=40.81
+ssims_lr=0.2387, ssims_dn=0.8311
+2022-10-18 17:00:34 >>  Epoch 200: PSNR=30.87
+psnrs_lr=26.84, psnrs_dn=30.87
+ssims_lr=0.2387, ssims_dn=0.7089
+Model Name:	SonyA7S2_ELD_Official
+Architecture:	UNetSeeInDark
+TrainDataset:	SID_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	
+Let's use 4 GPUs!

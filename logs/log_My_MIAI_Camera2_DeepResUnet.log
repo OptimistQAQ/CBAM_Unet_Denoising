@@ -1,0 +1,13 @@
+Model Name:	My_MIAI_Camera2_DeepResUnet
+Architecture:	DeepResUnet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	0
+Command:	augv1.2, idremap, darkshading2
+Let's use 1 GPUs!

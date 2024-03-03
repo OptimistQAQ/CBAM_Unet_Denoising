@@ -1,0 +1,356 @@
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 1 GPUs!
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 1 GPUs!
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 1 GPUs!
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 1 GPUs!
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 2 GPUs!
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 2 GPUs!
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 2 GPUs!
+2024-01-15 22:49:30 >>  Epoch 100: PSNR=46.71
+psnrs_lr=27.15, psnrs_dn=46.71
+ssims_lr=0.2102, ssims_dn=0.9575
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 3 GPUs!
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 2 GPUs!
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 2 GPUs!
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 2 GPUs!
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 2 GPUs!
+2024-01-16 10:04:11 >>  Epoch 99: PSNR=46.95
+psnrs_lr=27.15, psnrs_dn=46.95
+ssims_lr=0.2102, ssims_dn=0.9552
+2024-01-16 11:53:59 >>  Epoch 199: PSNR=46.49
+psnrs_lr=27.15, psnrs_dn=46.49
+ssims_lr=0.2102, ssims_dn=0.9404
+2024-01-16 12:53:21 >>  Epoch 299: PSNR=47.71
+psnrs_lr=27.15, psnrs_dn=47.71
+ssims_lr=0.2102, ssims_dn=0.9664
+2024-01-16 13:45:15 >>  Epoch 399: PSNR=46.63
+psnrs_lr=27.15, psnrs_dn=46.63
+ssims_lr=0.2102, ssims_dn=0.9326
+2024-01-16 14:37:06 >>  Epoch 499: PSNR=46.10
+psnrs_lr=27.15, psnrs_dn=46.10
+ssims_lr=0.2102, ssims_dn=0.9246
+2024-01-16 17:43:45 >>  Successfully reload best model (Eval PSNR:47.71379046893113)
+2024-01-16 17:45:07 >>  Epoch 599: PSNR=47.83
+psnrs_lr=27.15, psnrs_dn=47.83
+ssims_lr=0.2102, ssims_dn=0.9672
+2024-01-16 18:37:50 >>  Epoch 699: PSNR=47.69
+psnrs_lr=27.15, psnrs_dn=47.69
+ssims_lr=0.2102, ssims_dn=0.9644
+2024-01-16 19:37:38 >>  Epoch 799: PSNR=47.43
+psnrs_lr=27.15, psnrs_dn=47.43
+ssims_lr=0.2102, ssims_dn=0.9562
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 2 GPUs!
+2024-01-16 22:19:09 >>  Epoch 899: PSNR=47.02
+psnrs_lr=27.15, psnrs_dn=47.02
+ssims_lr=0.2102, ssims_dn=0.9434
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 2 GPUs!
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 2 GPUs!
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 2 GPUs!
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 2 GPUs!
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 2 GPUs!
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 2 GPUs!
+2024-01-17 09:36:12 >>  Epoch 1000: PSNR=47.09
+psnrs_lr=27.15, psnrs_dn=47.09
+ssims_lr=0.2102, ssims_dn=0.9600
+2024-01-17 10:26:24 >>  Epoch 1100: PSNR=48.06
+psnrs_lr=27.15, psnrs_dn=48.06
+ssims_lr=0.2102, ssims_dn=0.9737
+2024-01-17 11:17:39 >>  Epoch 1200: PSNR=47.66
+psnrs_lr=27.15, psnrs_dn=47.66
+ssims_lr=0.2102, ssims_dn=0.9644
+2024-01-17 11:17:40 >>  Successfully reload best model (Eval PSNR:48.062716258260934)
+2024-01-17 12:08:43 >>  Epoch 1300: PSNR=47.20
+psnrs_lr=27.15, psnrs_dn=47.20
+ssims_lr=0.2102, ssims_dn=0.9503
+2024-01-17 12:54:36 >>  Epoch 1400: PSNR=47.33
+psnrs_lr=27.15, psnrs_dn=47.33
+ssims_lr=0.2102, ssims_dn=0.9518
+2024-01-17 13:41:38 >>  Epoch 1500: PSNR=47.34
+psnrs_lr=27.15, psnrs_dn=47.34
+ssims_lr=0.2102, ssims_dn=0.9585
+2024-01-17 13:41:38 >>  Successfully reload best model (Eval PSNR:48.062716258260934)
+2024-01-17 14:35:50 >>  Epoch 1600: PSNR=47.34
+psnrs_lr=27.15, psnrs_dn=47.34
+ssims_lr=0.2102, ssims_dn=0.9556
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 2 GPUs!
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 2 GPUs!
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 2 GPUs!
+Model Name:	SonyA7S2_My_Unet
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 2 GPUs!
+2024-01-17 15:31:38 >>  Epoch 1700: PSNR=46.38
+psnrs_lr=27.15, psnrs_dn=46.38
+ssims_lr=0.2102, ssims_dn=0.9310

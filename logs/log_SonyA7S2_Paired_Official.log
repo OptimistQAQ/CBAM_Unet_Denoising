@@ -1,0 +1,46 @@
+Model Name:	SonyA7S2_Paired_Official
+Architecture:	UNetSeeInDark
+TrainDataset:	SID_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		200
+num_workers:	4
+Command:	
+Let's use 4 GPUs!
+2022-10-18 21:12:05 >>  Successfully reload best model (Eval PSNR:0.0)
+2022-10-18 21:28:01 >>  Epoch 100: PSNR=43.40
+psnrs_lr=26.84, psnrs_dn=43.40
+ssims_lr=0.2387, ssims_dn=0.8715
+2022-10-18 21:43:02 >>  Successfully reload best model (Eval PSNR:43.40419411425171)
+2022-10-18 22:12:29 >>  Successfully reload best model (Eval PSNR:43.40419411425171)
+2022-10-18 22:13:56 >>  Epoch 200: PSNR=43.71
+psnrs_lr=26.84, psnrs_dn=43.71
+ssims_lr=0.2387, ssims_dn=0.8784
+2022-10-18 22:13:57 >>  ELD Datasets: Dgain=100
+2022-10-18 22:16:16 >>  Epoch -1: PSNR=44.36
+psnrs_lr=30.85, psnrs_dn=44.36
+ssims_lr=0.5045, ssims_dn=0.9639
+2022-10-18 22:16:16 >>  ELD Datasets: Dgain=200
+2022-10-18 22:18:33 >>  Epoch -1: PSNR=41.61
+psnrs_lr=25.92, psnrs_dn=41.61
+ssims_lr=0.2607, ssims_dn=0.9182
+Model Name:	SonyA7S2_Paired_Official
+Architecture:	UNetSeeInDark
+TrainDataset:	SID_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	
+Let's use 4 GPUs!
+2022-11-10 10:40:14 >>  Epoch 100: PSNR=41.07
+psnrs_lr=26.84, psnrs_dn=41.07
+ssims_lr=0.2387, ssims_dn=0.8593

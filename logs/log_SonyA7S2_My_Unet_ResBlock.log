@@ -1,0 +1,48 @@
+Model Name:	SonyA7S2_My_Unet_ResBlock
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 1 GPUs!
+Model Name:	SonyA7S2_My_Unet_ResBlock
+Architecture:	Unet
+TrainDataset:	Mix_Dataset
+EvalDataset:	ELD_Dataset
+CameraType:	SonyA7S2
+num_channels:	32
+BatchSize:	1
+PatchSize:	512
+LearningRate:	0.0002
+Epoch:		1800
+num_workers:	4
+Command:	augv1.2, idremap, darkshading2
+Let's use 1 GPUs!
+2024-01-18 11:01:13 >>  Epoch 99: PSNR=45.79
+psnrs_lr=27.15, psnrs_dn=45.79
+ssims_lr=0.2102, ssims_dn=0.9526
+2024-01-18 12:19:43 >>  Epoch 199: PSNR=46.13
+psnrs_lr=27.15, psnrs_dn=46.13
+ssims_lr=0.2102, ssims_dn=0.9414
+2024-01-18 13:38:11 >>  Epoch 299: PSNR=45.47
+psnrs_lr=27.15, psnrs_dn=45.47
+ssims_lr=0.2102, ssims_dn=0.9199
+2024-01-18 14:56:45 >>  Epoch 399: PSNR=45.32
+psnrs_lr=27.15, psnrs_dn=45.32
+ssims_lr=0.2102, ssims_dn=0.9142
+2024-01-18 16:15:19 >>  Epoch 499: PSNR=46.43
+psnrs_lr=27.15, psnrs_dn=46.43
+ssims_lr=0.2102, ssims_dn=0.9430
+2024-01-18 17:31:21 >>  Successfully reload best model (Eval PSNR:46.430043438000155)
+2024-01-18 17:32:51 >>  Epoch 599: PSNR=45.76
+psnrs_lr=27.15, psnrs_dn=45.76
+ssims_lr=0.2102, ssims_dn=0.9234
+2024-01-18 18:48:15 >>  Epoch 699: PSNR=46.53
+psnrs_lr=27.15, psnrs_dn=46.53
+ssims_lr=0.2102, ssims_dn=0.9443
