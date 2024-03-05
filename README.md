@@ -28,11 +28,11 @@ python3 test.py
 
 Our model: 
 
-[model]: https://drive.google.com/drive/folders/16LPan408Pp0jAWAhLiuw8_wgQYUj4MMp?usp=drive_link	"model"
+[Model](https://drive.google.com/drive/folders/16LPan408Pp0jAWAhLiuw8_wgQYUj4MMp?usp=drive_link)
 
 ## Test Data
 
 Test Data:
 
-[Data]: https://drive.google.com/drive/folders/16LPan408Pp0jAWAhLiuw8_wgQYUj4MMp?usp=drive_link	"Data Download"
+[Data](https://drive.google.com/drive/folders/16LPan408Pp0jAWAhLiuw8_wgQYUj4MMp?usp=drive_link)
 
